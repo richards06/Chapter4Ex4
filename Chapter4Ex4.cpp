@@ -25,7 +25,7 @@ int main()
         break;
     case 3: cout << "You have earned 30 points" << endl;
         break;
-    default: "You have earned 60 points" << endl;
+    default:cout<< "You have earned 60 points" << endl;
 
     }
     if (numberBooks >= 0)
